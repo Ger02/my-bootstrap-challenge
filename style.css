@@ -1,0 +1,41 @@
+.carousel-inner > .carousel-item > img {
+    width: 100vw;;
+    height:calc(100vh - 56px);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#jumbo {
+    background: darkslategrey;
+    color: wheat;
+}
+
+.card-body {
+    text-align: center;
+}
+
+li {
+    font-size: small;
+    color:darkgrey;
+    padding-bottom: 10px;
+}
+
+nav {
+    justify-content: center;
+}
+
+#cart p {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+ul {
+    padding-top: 10px;
+}
+
+#jumbo h1 {
+    font-weight: bold;
+    
